@@ -37,14 +37,6 @@ This project is an interactive web application built with Streamlit that allows 
 *   **Dataset:**
     *   MNIST (for training the digit recognition model)
 
-## Project Structure
-.
-├── mnist_cnn_model.h5 # Pre-trained Keras CNN model file
-├── app.py # Main Streamlit application script
-├── requirements.txt # Python dependencies
-├── model.py # Script used to train and save the mnist_cnn_model.h5
-└── README.md 
-
 
 ## Setup and Installation
 
